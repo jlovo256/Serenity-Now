@@ -1,2 +1,3 @@
 # Serenity-Now
-old project
+
+This is an old project done for a college assignment in a C++ course.
